@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"recursive"
+			],
+			[
+				"in",
+				"initialComplete"
+			],
+			[
+				"contact",
+				"contacts"
+			],
+			[
+				"cont",
+				"contacts"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"p",
+				"projects"
+			],
+			[
+				"da",
+				"dates"
+			],
+			[
+				"De",
+				"Denver"
+			],
+			[
+				"for",
+				"formattedEmployer"
+			],
+			[
+				"j",
+				"jobs"
+			],
+			[
+				"Mo",
+				"MoveSmarter"
+			],
+			[
+				"form",
+				"form-container"
+			],
+			[
+				"Stree",
+				"street"
+			],
+			[
+				"ar",
+				"articleList"
+			],
+			[
+				"wiki",
+				"wikiElem"
+			],
+			[
+				"a",
+				"article"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"n",
+				"nicknames"
+			],
+			[
+				"cat",
+				"catItem"
+			],
+			[
+				"ca",
+				"catList"
+			],
+			[
+				"obseravble",
+				"observableArray"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"orie",
+				"text-orientation"
+			],
+			[
+				"wid",
+				"widows"
+			],
+			[
+				"dis",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/qiguo/Desktop/Mean/app.js",
+		"/Users/qiguo/Desktop/Mean/package.json",
+		"/Users/qiguo/Desktop/Mean/readme.md",
+		"/Users/qiguo/Desktop/Mean/.gitignore",
+		"/Users/qiguo/Desktop/Mean/readFileAsync.js",
+		"/Users/qiguo/Desktop/Mean/computational-non-blocking.js",
+		"/Users/qiguo/Desktop/Mean/computational-blocking.js",
+		"/Users/qiguo/Desktop/Mean/_fibonacci.js",
+		"/Users/qiguo/Desktop/Mean/setTimeout.js",
+		"/Users/qiguo/Desktop/Mean/readFileSync.js",
+		"/Users/qiguo/Desktop/Mean/instantHello.js",
+		"/Users/qiguo/Desktop/Mean/talk/goodbye.js",
+		"/Users/qiguo/Desktop/Mean/talk/index.js",
+		"/Users/qiguo/Desktop/Mean/talk/question.js",
+		"/Users/qiguo/Desktop/Mean/goodbye.js",
+		"/Users/qiguo/Desktop/app.js",
+		"/Users/qiguo/Downloads/Amazon_OA/oa1+oa2_coding/amazon_oa1/MyKNearestPoints.java",
+		"/Users/qiguo/Downloads/Amazon_OA/oa1+oa2_coding/amazon_oa1/Point.java",
+		"/Users/qiguo/Downloads/Ex_Files_Nodejs_EssT/Ch03/03_01/finished/global.js",
+		"/Users/qiguo/Downloads/Ex_Files_Nodejs_EssT/Ch03/03_04/finished/timers.js",
+		"/Users/qiguo/learn-fullstack-javascript/package.json",
+		"/Users/qiguo/Desktop/CSS",
+		"/Users/qiguo/Desktop/usfeul resources",
+		"/Users/qiguo/Documents/LICENSE",
+		"/Users/qiguo/Downloads/Ex_Files_Nodejs_EssT/Ch03/03_01/start/global.js",
+		"/Users/qiguo/Desktop/catsClicker/ud549/spec/PlayerSpec.js",
+		"/Users/qiguo/Desktop/catsClicker/ud549/spec/ContactSpec.js",
+		"/Users/qiguo/Desktop/catsClicker/ud549/spec/AddressBookSpec.js",
+		"/Users/qiguo/Desktop/catsClicker/ud549/src/Contact.js",
+		"/Users/qiguo/Desktop/catsClicker/ud549/src/AddressBook.js",
+		"/Users/qiguo/Desktop/catsClicker/ud549/SpecRunner.html",
+		"/Users/qiguo/Desktop/nanodegree-project2-master/js/resumeBuilder.js",
+		"/Users/qiguo/Downloads/frontend-nanodegree-resume-master/js/resumeBuilder.js",
+		"/Users/qiguo/Desktop/nanodegree-project2-master/css/style.css",
+		"/Users/qiguo/Desktop/nanodegree-project2-master/js/helper.js",
+		"/Users/qiguo/Downloads/frontend-nanodegree-resume-master/index.html",
+		"/Users/qiguo/Downloads/frontend-nanodegree-resume-master/js/helper.js",
+		"/Users/qiguo/Downloads/frontend-nanodegree-resume-master/css/style.css",
+		"/Users/qiguo/Downloads/frontend-nanodegree-resume-master/js/jQuery.js",
+		"/Users/qiguo/Downloads/nanodegree-project2-master/index.html",
+		"/Users/qiguo/Desktop/bootstrap-solution/contact.html",
+		"/Users/qiguo/Desktop/bayard OA/index.html",
+		"/Users/qiguo/Desktop/bootstrap-solution/index.html",
+		"/Users/qiguo/Desktop/bootstrap-solution/aboutme.html",
+		"/Users/qiguo/Desktop/bootstrap-solution/css/style.css",
+		"/Users/qiguo/Desktop/catsClicker/ud549/src/Player.js",
+		"/Users/qiguo/Desktop/frontend-nanodegree-resume-master/js/helper.js",
+		"/Users/qiguo/Desktop/学习计划：",
+		"/Users/qiguo/Desktop/frontend-nanodegree-resume-master/js/resumeBuilder.js",
+		"/Users/qiguo/Desktop/frontend-nanodegree-resume-master/index.html",
+		"/Users/qiguo/Desktop/htc.html",
+		"/Users/qiguo/Desktop/Homepage - James Cai_files/Contact Me.html",
+		"/Users/qiguo/Desktop/bootstrap-solution/bootstrap-prestructure.html",
+		"/Users/qiguo/Desktop/bootstrap-solution/aboutme2.html",
+		"/Users/qiguo/Desktop/minicourse-ajax-project 3/css/style.css",
+		"/Users/qiguo/Desktop/minicourse-ajax-project 3/index.html",
+		"/Users/qiguo/Desktop/minicourse-ajax-project 3/js/script.js",
+		"/Users/qiguo/Downloads/minicourse-ajax-project/js/script.js",
+		"/Users/qiguo/Desktop/ud989-cat-clicker-ko-starter-master/index.html",
+		"/Users/qiguo/Desktop/ud989-cat-clicker-ko-starter-master/js/app.js",
+		"/Users/qiguo/Downloads/ud989-cat-clicker-ko-starter-master/js/app.js",
+		"/Users/qiguo/Downloads/ud989-cat-clicker-ko-starter-master/index.html",
+		"/Users/qiguo/Downloads/ud989-cat-clicker-ko-starter-master/README.md",
+		"/Users/qiguo/Desktop/portfolio/framework/index.html",
+		"/Users/qiguo/Downloads/bootstrap-prestructure/bootstrap-prestructure.htm",
+		"/Users/qiguo/Desktop/portfolio/framework/css/main.css",
+		"/Users/qiguo/Desktop/bootstrap-solution/style.css",
+		"/Users/qiguo/Desktop/portfolio/framework/css/usfeul resources",
+		"/Users/qiguo/résumé/frontend-nanodegree-resume/index.html",
+		"/Users/qiguo/Downloads/framework/css/main.css",
+		"/Users/qiguo/Downloads/framework/test.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			"flex-item",
+			"body",
+			"connect"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
